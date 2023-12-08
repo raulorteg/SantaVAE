@@ -1,4 +1,4 @@
-# Exercises for Lecture 5 Destiny Winter School (Friday 8th Decemeber 2023)
+# SantaVAE
 
 
 ## Installation 
